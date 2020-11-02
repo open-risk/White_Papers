@@ -1,9 +1,19 @@
 # White_Papers
 
-Open Risk is occasionally publishing White Papers covering a range of topics around risk management, both conceptual and technical 
-(quantitative / development issues). This repository is a mirror of the Open Risk white paper collection
+Open Risk is occasionally publishing White Papers covering a range of topics around risk management, both conceptual and technical (quantitative / development issues). This repository is a **mirror** of the [Open Risk white paper collection](https://www.openriskmanagement.com/open-risk-white-papers/)
 
 We welcome also external collaborators who are interested in the areas where Open Risk is active.
+
+### Open Risk White Paper 9: _Connecting the Dots: Economic Networks as Property Graphs_
+  
+([OpenRiskWP09_301020][16])
+
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2020/11/bank_unbundled.png" width="350" />][17]
+
+We develop a quantitative framework that approaches economic networks from the point of view of contractual relationships between agents (and the interdependencies those generate). The representation of agent properties, transactions and contracts is done in the a context of a property graph. A typical use case for the proposed framework is the study of credit networks.
+
+<br clear="all" />
+
 
 ### Open Risk White Paper 8: _Connecting the Dots: Economic Networks as Property Graphs_
   
@@ -15,7 +25,9 @@ We develop a quantitative framework that approaches economic networks from the p
 
 <br clear="all" />
 
-### Open Risk White Paper 7: _Risk Capital for Non-Performing Loans_ ([OpenRiskWP07_022616][3])
+### Open Risk White Paper 7: _Risk Capital for Non-Performing Loans_ 
+
+([OpenRiskWP07_022616][3])
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2016/02/npl_plot-300x166.png" alt="Risk capital for non-performing loans" class="alignleft size-medium wp-image-2116" width="300" height="166" srcset="https://www.openriskmanagement.com/wp-content/uploads/2016/02/npl_plot-300x166.png 300w, https://www.openriskmanagement.com/wp-content/uploads/2016/02/npl_plot-768x424.png 768w, https://www.openriskmanagement.com/wp-content/uploads/2016/02/npl_plot.png 856w" sizes="(max-width: 300px) 100vw, 300px" />][4]
 
@@ -23,7 +35,9 @@ We develop a conceptual framework for risk capital calculation for portfolios of
 
 <br clear="all" />
 
-### Open Risk White Paper 6: _Stress Testing Methodology for FX Lending_ ([OpenRiskWP06_012116][5])
+### Open Risk White Paper 6: _Stress Testing Methodology for FX Lending_ 
+
+([OpenRiskWP06_012116][5])
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2016/01/FX_volatility-300x225.png" alt="" class="alignleft size-medium wp-image-1901" width="300" height="225" srcset="https://www.openriskmanagement.com/wp-content/uploads/2016/01/FX_volatility-300x225.png 300w, https://www.openriskmanagement.com/wp-content/uploads/2016/01/FX_volatility-768x576.png 768w, https://www.openriskmanagement.com/wp-content/uploads/2016/01/FX_volatility.png 800w" sizes="(max-width: 300px) 100vw, 300px" />][6]
 
@@ -31,7 +45,9 @@ We develop a simple methodology for stress testing portfolios of credit instrume
 
 <br clear="all" />
 
-### Open Risk White Paper 5: _Identification Framework for Business Model Risks_ ([OpenRiskWP05_010916][7])
+### Open Risk White Paper 5: _Identification Framework for Business Model Risks_ 
+
+([OpenRiskWP05_010916][7])
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2016/01/bmc-300x202.png" alt="" class="size-medium wp-image-1858" width="300" height="202" srcset="https://www.openriskmanagement.com/wp-content/uploads/2016/01/bmc-300x202.png 300w, https://www.openriskmanagement.com/wp-content/uploads/2016/01/bmc.png 664w" sizes="(max-width: 300px) 100vw, 300px" />][8]<figcaption id="caption-attachment-1858" class="wp-caption-text">The Business Model Canvas</figcaption></figure> 
 
@@ -39,7 +55,9 @@ We develop an analytical framework for the systematic _identification_ of busine
 
 <br clear="all" />
 
-### Open Risk White Paper 4: _Open Risk Model Taxonomy_ ([OpenRiskWP04_061415][9])
+### Open Risk White Paper 4: _Open Risk Model Taxonomy_ 
+
+([OpenRiskWP04_061415][9])
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2015/06/turing-300x154.png" alt="" class="alignleft size-medium wp-image-1614" width="300" height="154" srcset="https://www.openriskmanagement.com/wp-content/uploads/2015/06/turing-300x154.png 300w, https://www.openriskmanagement.com/wp-content/uploads/2015/06/turing-1024x526.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />][10]
 
@@ -49,7 +67,9 @@ We first review the motivation for risk taxonomies, the concepts and tools that 
 
 <br clear="all" />
 
-### Open Risk White Paper 3: _Introducing the Open Risk API_ ([OpenRiskWP03_053115][11])
+### Open Risk White Paper 3: _Introducing the Open Risk API_ 
+
+([OpenRiskWP03_053115][11])
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2016/01/linked_models-300x200.png" alt="" class="alignleft size-medium wp-image-1952" width="300" height="200" srcset="https://www.openriskmanagement.com/wp-content/uploads/2016/01/linked_models-300x200.png 300w, https://www.openriskmanagement.com/wp-content/uploads/2016/01/linked_models-768x512.png 768w, https://www.openriskmanagement.com/wp-content/uploads/2016/01/linked_models.png 963w" sizes="(max-width: 300px) 100vw, 300px" />][12]
 
@@ -59,7 +79,9 @@ The proposal builds on two key modern technological frameworks, Semantic Data an
 
 For definiteness we illustrate the concept with an open source implementation that takes a use case from the analysis of credit risk in loan portfolios. The implementation consists of demo model and data servers and clients implemented using Python and MongoDB.
 
-### Open Risk White Paper 2: _Confidence Capital: The Principle_ ([OpenRiskWP02_040815][13])
+### Open Risk White Paper 2: _Confidence Capital: The Principle_ 
+
+([OpenRiskWP02_040815][13])
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2016/02/capital_ratio-300x225.jpeg" alt="" class="alignleft size-medium wp-image-2634" width="300" height="225" srcset="https://www.openriskmanagement.com/wp-content/uploads/2016/02/capital_ratio-300x225.jpeg 300w, https://www.openriskmanagement.com/wp-content/uploads/2016/02/capital_ratio-768x576.jpeg 768w, https://www.openriskmanagement.com/wp-content/uploads/2016/02/capital_ratio.jpeg 800w" sizes="(max-width: 300px) 100vw, 300px" />][14]
 
@@ -69,10 +91,15 @@ The likelihood and severity of a future ratings downgrade (as opposed to a defau
 
 We derive explicit formulas for implementing a confidence capital framework in a two period setup that can lead to tractable implementations. We include a brief quantitative study that addresses a very simplified case that is solvable in terms of simple formulas. We explore the relation of confidence capital to economic capital for various choices of risk appetite and inter-temporal loss correlations
 
-### Open Risk White Paper 1: _Revisiting Simple Concentration Indexes_ ([OpenRiskWP01_032705][15])
+### Open Risk White Paper 1: _Revisiting Simple Concentration Indexes_ 
+
+
+([OpenRiskWP01_032705][15])
 
 We review the definitions of widely used concentration metrics such as the concentration ratio, the HHI index and the Gini and clarify their meaning and relationships. This new analytic framework helps clarify the apparent arbitrariness of simple concentration indexes and brings to the fore the underlying unifying concept behind these metrics, thereby enabling their more informed use in portfolio and risk management applications. We also propose that the sensitivity of concentration indexes to growing concentration should be a defining criterion for adopting an index and explore the sensitivity of common indexes to changing portfolio concentrations. We show that this sensitivity can vary significantly between indexes for parametric families of portfolio distributions and hence selecting and using a simple concentration index should take this aspect carefully into consideration.
 
+ [17]: https://www.openriskmanagement.com/wp-content/uploads/2020/11/bank_unbundled.png
+ [16]: OpenRiskWP09_301020.pdf
  [1]: OpenRiskWP08_131219.pdf
  [2]: https://www.openriskmanagement.com/wp-content/uploads/2019/12/econ_network.png
  [3]: OpenRiskWP07_022616.pdf
