@@ -1,16 +1,16 @@
-# White_Papers
+## White Papers
 
 Open Risk is occasionally publishing White Papers covering a range of topics around risk management, both conceptual and technical (quantitative / development issues). This repository is a **mirror** of the [Open Risk white paper collection](https://www.openriskmanagement.com/open-risk-white-papers/)
 
 We welcome also external collaborators who are interested in the areas where Open Risk is active.
 
-### Open Risk White Paper 9: _Connecting the Dots: Economic Networks as Property Graphs_
+### Open Risk White Paper 9: _Federated Credit Systems, Part I: Unbundling The Credit Provision Business Model_
   
 ([OpenRiskWP09_301020][16])
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2020/11/bank_unbundled.png" width="350" />][17]
 
-We develop a quantitative framework that approaches economic networks from the point of view of contractual relationships between agents (and the interdependencies those generate). The representation of agent properties, transactions and contracts is done in the a context of a property graph. A typical use case for the proposed framework is the study of credit networks.
+In this (the first of series of three) white paper, we introduce and explore the concept of federated credit systems. We review the rapidly developing fields of Federated Analysis and Federated Learning as already actively studied in the domains of medicine and consumer computing devices. This forms the backdrop for understanding the potential and challenges of applying similar concepts in finance and more particular credit provision. The context of modern banking is substantially different from the above mentioned use cases. Understanding and shaping federated information systems to cater to its unique features and constraints (key added value, competitive landscape, regulatory frameworks) will help accelerate the adoption of new designs. Towards that purpose we construct a framework that conceptually unbundles the complex operation that is modern credit provision. We introduce a number of fundamental business entities (sub-units) and their associated functions and discuss the underlying business models. We discuss, in particular, how and why they exchange data and metrics and the key risk management challenges of each. Finally, we sketch current architectures for credit information sharing with an overture to the new possibilities opening up with federation architectures.
 
 <br clear="all" />
 
@@ -21,7 +21,7 @@ We develop a quantitative framework that approaches economic networks from the p
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2019/12/econ_network.png" alt="" class="alignleft size-medium wp-image-3416" width="300" srcset="https://www.openriskmanagement.com/wp-content/uploads/2019/12/econ_network.png 524w, https://www.openriskmanagement.com/wp-content/uploads/2019/12/econ_network-300x295.png 300w" sizes="(max-width: 524px) 100vw, 524px" />][2]
 
-We develop a quantitative framework that approaches economic networks from the point of view of contractual relationships between agents (and the interdependencies those generate). The representation of agent properties, transactions and contracts is done in the a context of a property graph. A typical use case for the proposed framework is the study of credit networks.
+We develop a quantitative framework that approaches economic networks from the point of view of contractual relationships between agents (and the interdependencies those generate). The representation of agent properties, transactions and contracts is done in the context of a property graph. A typical use case for the proposed framework is the study of credit networks.
 
 <br clear="all" />
 
@@ -98,20 +98,29 @@ We derive explicit formulas for implementing a confidence capital framework in a
 
 We review the definitions of widely used concentration metrics such as the concentration ratio, the HHI index and the Gini and clarify their meaning and relationships. This new analytic framework helps clarify the apparent arbitrariness of simple concentration indexes and brings to the fore the underlying unifying concept behind these metrics, thereby enabling their more informed use in portfolio and risk management applications. We also propose that the sensitivity of concentration indexes to growing concentration should be a defining criterion for adopting an index and explore the sensitivity of common indexes to changing portfolio concentrations. We show that this sensitivity can vary significantly between indexes for parametric families of portfolio distributions and hence selecting and using a simple concentration index should take this aspect carefully into consideration.
 
- [17]: https://www.openriskmanagement.com/wp-content/uploads/2020/11/bank_unbundled.png
- [16]: OpenRiskWP09_301020.pdf
- [1]: OpenRiskWP08_131219.pdf
- [2]: https://www.openriskmanagement.com/wp-content/uploads/2019/12/econ_network.png
- [3]: OpenRiskWP07_022616.pdf
- [4]: https://www.openriskmanagement.com/wp-content/uploads/2016/02/npl_plot.png
- [5]: OpenRiskWP06_012116.pdf
- [6]: https://www.openriskmanagement.com/wp-content/uploads/2016/01/FX_volatility.png
- [7]: OpenRiskWP05_010916.pdf
- [8]: https://www.openriskmanagement.com/wp-content/uploads/2016/01/bmc.png
- [9]: OpenRiskWP04_061415.pdf
- [10]: https://www.openriskmanagement.com/wp-content/uploads/2015/06/turing.png
- [11]: OpenRiskWP03_053115.pdf
- [12]: https://www.openriskmanagement.com/wp-content/uploads/2016/01/linked_models.png
- [13]: OpenRiskWP02_040815.pdf
- [14]: https://www.openriskmanagement.com/wp-content/uploads/2016/02/capital_ratio.jpeg
- [15]: OpenRiskWP01_032705.pdf
+## Presentations
+
+### TopQuants 2015: Open Risk API
+
+*Improved financial risk management through open data, open source and web technologies*
+
+Presentation[17] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2015
+
+[1]: OpenRiskWP08_131219.pdf
+[2]: https://www.openriskmanagement.com/wp-content/uploads/2019/12/econ_network.png
+[3]: OpenRiskWP07_022616.pdf
+[4]: https://www.openriskmanagement.com/wp-content/uploads/2016/02/npl_plot.png
+[5]: OpenRiskWP06_012116.pdf
+[6]: https://www.openriskmanagement.com/wp-content/uploads/2016/01/FX_volatility.png
+[7]: OpenRiskWP05_010916.pdf
+[8]: https://www.openriskmanagement.com/wp-content/uploads/2016/01/bmc.png
+[9]: OpenRiskWP04_061415.pdf
+[10]: https://www.openriskmanagement.com/wp-content/uploads/2015/06/turing.png
+[11]: OpenRiskWP03_053115.pdf
+[12]: https://www.openriskmanagement.com/wp-content/uploads/2016/01/linked_models.png
+[13]: OpenRiskWP02_040815.pdf
+[14]: https://www.openriskmanagement.com/wp-content/uploads/2016/02/capital_ratio.jpeg
+[15]: OpenRiskWP01_032705.pdf
+[16]: OpenRiskWP09_301020.pdf
+[17]: https://www.openriskmanagement.com/wp-content/uploads/2020/11/bank_unbundled.png
+[18]: TopQuants2015.pdf
