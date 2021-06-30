@@ -4,6 +4,16 @@ Open Risk is occasionally publishing White Papers covering a range of topics aro
 
 We welcome also external collaborators who are interested in the areas where Open Risk is active.
 
+### Open Risk White Paper 10: _Connecting the Dots: Concentration, diversity, inequality and sparsity in economic networks_
+
+([OpenRiskWP10_300621][19])
+
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2021/06/spatial_network.png" width="350" />][20]
+
+In this second Open Risk White Paper on Connecting the Dots we examine measures of concentration, diversity, inequality and sparsity in the context of economic systems represented as network (graph) structures. We adopt a stylized description of economies as property graphs and illustrate how relevant concepts can represented in this language. We explore in some detail data types representing economic network data and their statistical nature which is critical in their use in concentration analysis. We proceed to recast various known indexes drawn from distinct disciplines in a unified computational context.
+
+<br clear="all" />
+
 ### Open Risk White Paper 9: _Federated Credit Systems, Part I: Unbundling The Credit Provision Business Model_
   
 ([OpenRiskWP09_301020][16])
@@ -124,3 +134,5 @@ Presentation[17] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2
 [16]: OpenRiskWP09_301020.pdf
 [17]: https://www.openriskmanagement.com/wp-content/uploads/2020/11/bank_unbundled.png
 [18]: TopQuants2015.pdf
+[19]: OpenRiskWP10_300621.pdf
+[20]: https://www.openriskmanagement.com/wp-content/uploads/2021/06/spatial_network.png
