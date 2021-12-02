@@ -5,6 +5,17 @@ Open Risk is occasionally publishing White Papers covering a range of topics aro
 * We welcome external collaborators who are interested in the areas where Open Risk is active.
 * We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20)
 
+### Open Risk White Paper 11: _Sustainable Portfolio Management: Attribution and Allocation of Greenhouse Gas Emissions_
+
+([OpenRiskWP11_021221][21])
+
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2021/12/Planetary-Boundaries.png" width="350" />][22]
+
+We develop an analytic framework that synthesizes current approaches to sustainable portfolio management in the context of addressing climate change. We discuss the different required information layers, approaches to emissions accounting, attribution and forward-looking limit frameworks implementing carbon budget constraints. The focus is on identifying the necessary ingredients for a coherent representation, recognizing that practical implementations require a large amount of specific detail.
+
+<br clear="all" />
+
+
 ### Open Risk White Paper 10: _Connecting the Dots: Concentration, diversity, inequality and sparsity in economic networks_
 
 ([OpenRiskWP10_300621][19])
@@ -137,3 +148,5 @@ Presentation[17] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2
 [18]: TopQuants2015.pdf
 [19]: OpenRiskWP10_300621.pdf
 [20]: https://www.openriskmanagement.com/wp-content/uploads/2021/06/spatial_network.png
+[21]: OpenRiskWP11_021221.pdf
+[22]: https://www.openriskmanagement.com/wp-content/uploads/2021/12/Planetary-Boundaries.png
