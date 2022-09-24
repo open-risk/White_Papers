@@ -9,7 +9,7 @@ Open Risk is occasionally publishing White Papers covering a range of topics aro
 
 ([OpenRiskWP12_230922][23])
 
-[<img src="https://www.openriskmanagement.com/wp-content/uploads/2022/09/Acounting_Balance.png" width="350" />][24]
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2022/09/Accounting_Balance.png" width="350" />][24]
 
 We develop a conceptual framework for integrated accounting that produces (where possible) non-financial disclosures subject to the same double-entry balance constraints as those used to produce conventional financial statements and automatically ensures any additional conservation laws are satisfied. We identify the key ingredients required for such a rigorous integrated accounting framework, in terms of concepts, postulates and design choices. Our focus and concrete use case is built around energy accounting, keeping track on an entity’s detailed energy footprint (primary inputs, transformations and waste generation) as an extension of its standard financial accounting and reporting. The central tool is the use of multi-dimensional double-entry bookkeeping which tracks quantitative information characterizing economic objects beyond their monetary values. This choice ensures the enforcement of both classic balance constraints and any applicable energy conservation laws. Further tools and techniques concern the aggregation and reporting of dual (monetary and physical) dimensions of an entity’s accounting state. The framework is documented using mathematical notation.
 
