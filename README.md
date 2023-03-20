@@ -5,6 +5,16 @@ Open Risk is occasionally publishing White Papers covering a range of topics aro
 * We welcome external collaborators who are interested in the areas where Open Risk is active.
 * We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20)
 
+### Open Risk White Paper 13: _Federated Credit Systems, Part II: Techniques for Federated Data Analysis_
+
+([OpenRiskWP13_200323][25])
+
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2019/11/federated_models.png" width="350" />][26]
+
+In this Open Risk White Paper, the second of series focusing on Federated Credit Systems, we explore techniques for federated credit data analysis. Building on the first paper where we outlined the overall architecture, essential actors and information flows underlying various business models of credit provision, in this step we focus on the enabling arrangements and techniques for building Federated Credit Data Systems and enabling Federated Analysis. We start with a brief and non-technical description on privacy-preserving technologies, focusing on the special role of federated analysis within the spectrum of cryptographic approaches to multi-party computation. We then discuss generative processes of credit data that both motivate federated analysis uses cases and shape its specific characteristics in the context of the financial sector. We proceed to define the concept of a federated credit data system, with the federated master data table as an iconic outcome. Building on that layout we sketch how generic algorithms might be structured in a federated analysis context, giving examples from concentration risk analysis. We conclude with thoughts on the potential challenges to realize and benefit from federated systems in finance.
+
+<br clear="all" />
+
 ### Open Risk White Paper 12: _Deep-Linking Financial and Energy Accounting_
 
 ([OpenRiskWP12_230922][23])
@@ -15,7 +25,6 @@ We develop a conceptual framework for integrated accounting that produces (where
 
 <br clear="all" />
 
-
 ### Open Risk White Paper 11: _Sustainable Portfolio Management: Attribution and Allocation of Greenhouse Gas Emissions_
 
 ([OpenRiskWP11_021221][21])
@@ -25,7 +34,6 @@ We develop a conceptual framework for integrated accounting that produces (where
 We develop an analytic framework that synthesizes current approaches to sustainable portfolio management in the context of addressing climate change. We discuss the different required information layers, approaches to emissions accounting, attribution and forward-looking limit frameworks implementing carbon budget constraints. The focus is on identifying the necessary ingredients for a coherent representation, recognizing that practical implementations require a large amount of specific detail.
 
 <br clear="all" />
-
 
 ### Open Risk White Paper 10: _Connecting the Dots: Concentration, diversity, inequality and sparsity in economic networks_
 
@@ -46,7 +54,6 @@ In this second Open Risk White Paper on Connecting the Dots we examine measures 
 In this (the first of series of three) white paper, we introduce and explore the concept of federated credit systems. We review the rapidly developing fields of Federated Analysis and Federated Learning as already actively studied in the domains of medicine and consumer computing devices. This forms the backdrop for understanding the potential and challenges of applying similar concepts in finance and more particular credit provision. The context of modern banking is substantially different from the above mentioned use cases. Understanding and shaping federated information systems to cater to its unique features and constraints (key added value, competitive landscape, regulatory frameworks) will help accelerate the adoption of new designs. Towards that purpose we construct a framework that conceptually unbundles the complex operation that is modern credit provision. We introduce a number of fundamental business entities (sub-units) and their associated functions and discuss the underlying business models. We discuss, in particular, how and why they exchange data and metrics and the key risk management challenges of each. Finally, we sketch current architectures for credit information sharing with an overture to the new possibilities opening up with federation architectures.
 
 <br clear="all" />
-
 
 ### Open Risk White Paper 8: _Connecting the Dots: Economic Networks as Property Graphs_
   
@@ -126,7 +133,6 @@ We derive explicit formulas for implementing a confidence capital framework in a
 
 ### Open Risk White Paper 1: _Revisiting Simple Concentration Indexes_ 
 
-
 ([OpenRiskWP01_032705][15])
 
 We review the definitions of widely used concentration metrics such as the concentration ratio, the HHI index and the Gini and clarify their meaning and relationships. This new analytic framework helps clarify the apparent arbitrariness of simple concentration indexes and brings to the fore the underlying unifying concept behind these metrics, thereby enabling their more informed use in portfolio and risk management applications. We also propose that the sensitivity of concentration indexes to growing concentration should be a defining criterion for adopting an index and explore the sensitivity of common indexes to changing portfolio concentrations. We show that this sensitivity can vary significantly between indexes for parametric families of portfolio distributions and hence selecting and using a simple concentration index should take this aspect carefully into consideration.
@@ -163,3 +169,5 @@ Presentation[17] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2
 [22]: https://www.openriskmanagement.com/wp-content/uploads/2021/12/Planetary-Boundaries.png
 [23]: OpenRiskWP12_230922.pdf
 [24]: https://www.openriskmanagement.com/wp-content/uploads/2021/12/Planetary-Boundaries.png
+[25]: OpenRiskWP13_200023.pdf
+[26]: https://www.openriskmanagement.com/wp-content/uploads/2019/11/federated_models.png
