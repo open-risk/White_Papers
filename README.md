@@ -3,7 +3,7 @@
 Open Risk is occasionally publishing White Papers covering a range of topics around risk management, both conceptual and technical (quantitative / development issues). This repository is a **mirror** of the [Open Risk white paper collection](https://www.openriskmanagement.com/open-risk-white-papers/)
 
 * We welcome external collaborators who are interested in the areas where Open Risk is active.
-* We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20)
+* We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20) or, if you prefer, on our [reddit sub](https://www.reddit.com/r/open_risk/)
 
 ### Open Risk White Paper 13: _Federated Credit Systems, Part II: Techniques for Federated Data Analysis_
 
