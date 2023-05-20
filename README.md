@@ -7,13 +7,13 @@ Open Risk is occasionally publishing White Papers covering a range of topics aro
 
 ### Open Risk White Paper 14: _energyLedger: Integrated energy accounting using relational databases_
 
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2023/05/energyLedger.png" width="350" />][28]
+
 ([OpenRiskWP14_190523][27])
 
 In this Open Risk White Paper we demonstrate a concrete implementation of an integrated energy accounting framework using relational database technologies. The framework enables accounting of non-financial disclosures (such as the physical and embodied energy footprints of economic transactions) while enforcing the familiar double-entry balance constraints used to produce conventional (monetary) accounts and financial statements. In addition, it allows enforcing constraints associated with the flow and transformations of energy that can happen inside the organizational perimeter. We establish the conceptual relation of such an approach with the currently developing European Sustainability Reporting Standards (ESRS) and emissions attributions standards such as PCAF. A simplified sequence capturing transactions of a fictional venture helps illustrate how this type of accounting might work in practice. We also document the details of an open source relational database implementation of the concepts.
 
 <br clear="all" />
-
-
 
 
 ### Open Risk White Paper 13: _Federated Credit Systems, Part II: Techniques for Federated Data Analysis_
@@ -183,4 +183,4 @@ Presentation[17] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2
 [25]: OpenRiskWP13_200323.pdf
 [26]: https://www.openriskmanagement.com/wp-content/uploads/2019/11/federated_models.png
 [27]: OpenRiskWP14_190523.pdf
-[28]: https://www.openriskmanagement.com/wp-content/uploads/2019/11/federated_models.png
+[28]: https://www.openriskmanagement.com/wp-content/uploads/2023/05/energyLedger.png
