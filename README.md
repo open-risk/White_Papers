@@ -7,6 +7,17 @@ This repository is a **mirror** of the [Open Risk White Paper Collection](https:
 * We welcome external collaborators who are interested in the areas where Open Risk is active.
 * We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20) or, if you prefer, on our [reddit sub](https://www.reddit.com/r/open_risk/) or on [mastodon](https://mastodon.social/deck/@openrisk).
 
+### Open Risk White Paper 15: _Connecting the Dots: Tensor Representations of ActivityPub Networks_
+
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2024/02/fediverse.png" width="350" />][30]
+
+([OpenRiskWP15_020224][29])
+
+In this third Open Risk White Paper on _Connecting the Dots_ we explore representations of online communication networks that are organized according to the ActivityPub protocol. We discuss the main relevant features of the protocol and the broader application ecosystem around it that shapes emerging online network topologies. We develop a stylized description of ActivityPub compliant networks as a mathematical multilayer network. Tensor representations of such complex graphs generalize the more familiar matrix algebra tools and can be useful in various ways: On the one hand they help empirical work in analyzing
+the characteristics of such networks, on the other they enable simulating and exploring network behavior.
+
+<br clear="all" />
+
 
 ### Open Risk White Paper 14: _energyLedger: Integrated energy accounting using relational databases_
 
@@ -187,3 +198,5 @@ Presentation[17] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2
 [26]: https://www.openriskmanagement.com/wp-content/uploads/2019/11/federated_models.png
 [27]: OpenRiskWP14_190523.pdf
 [28]: https://www.openriskmanagement.com/wp-content/uploads/2023/05/energyLedger.png
+[29]: OpenRiskWP15_020224.pdf
+[30]: https://www.openriskmanagement.com/wp-content/uploads/2024/02/fediverse.png
