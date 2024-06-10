@@ -168,7 +168,15 @@ We review the definitions of widely used concentration metrics such as the conce
 
 *Improved financial risk management through open data, open source and web technologies*
 
-Presentation[17] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2015
+[Presentation][18] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2015
+
+
+### IO Workshop 2024: EEIO in Sustainable Finance - Challenges and Opportunities
+
+*EEIO in Sustainable Finance: Challenges and Opportunities* 
+
+[Presentation][31] given at the 15th I-O Workshop, March 1st 2024, Osnabruck, Germany
+
 
 [1]: OpenRiskWP08_131219.pdf
 [2]: https://www.openriskmanagement.com/wp-content/uploads/2019/12/econ_network.png
@@ -200,3 +208,4 @@ Presentation[17] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2
 [28]: https://www.openriskmanagement.com/wp-content/uploads/2023/05/energyLedger.png
 [29]: OpenRiskWP15_020224.pdf
 [30]: https://www.openriskmanagement.com/wp-content/uploads/2024/02/fediverse.png
+[31]: IO2024_Presentation.pdf
