@@ -142,7 +142,7 @@ We develop a proposal for an open source application programming interface (API)
 
 The proposal builds on two key modern technological frameworks, Semantic Data and RESTful API’s, which in turn are both examples of rapidly adopted and evolving Web technologies. We review the motivation for such an infrastructure, the concepts and tools that can enable such a design and various related initiatives. We describe in detail the current version of the API specification.
 
-For definiteness we illustrate the concept with an open source implementation that takes a use case from the analysis of credit risk in loan portfolios. The implementation consists of demo model and data servers and clients implemented using Python and MongoDB.
+For definiteness, we illustrate the concept with an open source implementation that takes a use case from the analysis of credit risk in loan portfolios. The implementation consists of demo model and data servers and clients implemented using Python and MongoDB.
 
 ### Open Risk White Paper 2: _Confidence Capital: The Principle_ 
 
@@ -172,6 +172,8 @@ We review the definitions of widely used concentration metrics such as the conce
 
 
 ### IO Workshop 2024: EEIO in Sustainable Finance - Challenges and Opportunities
+
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2024/06/NGFS_Scenarios_II.png" width="300"/>][32]
 
 *EEIO in Sustainable Finance: Challenges and Opportunities* 
 
@@ -209,3 +211,4 @@ We review the definitions of widely used concentration metrics such as the conce
 [29]: OpenRiskWP15_020224.pdf
 [30]: https://www.openriskmanagement.com/wp-content/uploads/2024/02/fediverse.png
 [31]: IO2024_Presentation.pdf
+[32]: https://www.openriskmanagement.com/wp-content/uploads/2024/06/NGFS_Scenarios_II.png
