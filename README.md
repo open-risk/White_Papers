@@ -164,20 +164,26 @@ We review the definitions of widely used concentration metrics such as the conce
 
 ## Presentations
 
-### TopQuants 2015: Open Risk API
+### IO Workshop 2025: How to Random Walk on Supply and Use Tables (and why bother?)
 
-*Improved financial risk management through open data, open source and web technologies*
+[Presentation](IO2025_Presentation.pdf) given at the 16th Input-Output Workshop, March 27st 2025, Groningen, Netherlands. We discuss how Supply and Use tables can be mapped naturally into Bipartite Graph Networks (in various Open and Closed economy configurations).
 
-[Presentation][18] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2015
-
+[<img src="https://www.openriskmanagement.com/wp-content/uploads/2024/12/sut_graph.png" width="300"/>]
 
 ### IO Workshop 2024: EEIO in Sustainable Finance - Challenges and Opportunities
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2024/06/NGFS_Scenarios_II.png" width="300"/>][32]
 
-*EEIO in Sustainable Finance: Challenges and Opportunities* 
+*EEIO in Sustainable Finance: Challenges and Opportunities*
 
 [Presentation][31] given at the 15th I-O Workshop, March 1st 2024, Osnabruck, Germany
+
+
+### TopQuants 2015: Open Risk API
+
+*Improved financial risk management through open data, open source and web technologies*
+
+[Presentation][18] given at the TopQuants/DNB Autumn Meeting, Amsterdam, Nov 18, 2015
 
 
 [1]: OpenRiskWP08_131219.pdf
