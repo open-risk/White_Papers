@@ -7,6 +7,19 @@ This repository is a **mirror** of the [Open Risk White Paper Collection](https:
 * We welcome external collaborators who are interested in the areas where Open Risk is active.
 * We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20) or, if you prefer, on our [reddit sub](https://www.reddit.com/r/open_risk/) or on [mastodon](https://mastodon.social/deck/@openrisk).
 
+
+### Open Risk White Paper 16: _Open Risk White Paper 16: _Follow the Money: Random Walks on Supply and Use Graphs_
+
+<img src="https://www.openriskmanagement.com/wp-content/uploads/2025/03/Qupstream.png" width="350" />
+
+[OpenRiskWP16_161224](OpenRiskWP16_161224.pdf)
+
+We explore how to organize Environmentally-Extended Input-Output frameworks (EEIO), and in particular their Supply and Use Table (SUT) formulation, as graphs. Working directly with SUT systems instead of converting to symmetric IO matrices involves fewer assumptions and (in principle) higher resolution in expressing environmental impacts. We elaborate first on the representation of SUT tables as directed, weighted bipartite graphs. We discuss both closed (circular) and open system configurations, featuring source and sink nodes. These are modeled as regular and absorbing Markov Chains respectively. We outline a probabilistic random walk framework that realizes mathematically the colloquial Follow the Money concept. This enables computing a range of various existing and new metrics using the EEIO data. As an illustration, besides the standard environmental footprint metric, we introduce the concept of footprint variance or the intrinsic variability of estimates. We illustrate the overall setup using a classic numerical example from the EEIO literature.
+
+<br clear="all" />
+
+<hr>
+
 ### Open Risk White Paper 15: _Connecting the Dots: Tensor Representations of ActivityPub Networks_
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2024/02/fediverse.png" width="350" />][30]
@@ -18,6 +31,7 @@ the characteristics of such networks, on the other they enable simulating and ex
 
 <br clear="all" />
 
+<hr>
 
 ### Open Risk White Paper 14: _energyLedger: Integrated energy accounting using relational databases_
 
@@ -29,6 +43,7 @@ In this Open Risk White Paper we demonstrate a concrete implementation of an int
 
 <br clear="all" />
 
+<hr>
 
 ### Open Risk White Paper 13: _Federated Credit Systems, Part II: Techniques for Federated Data Analysis_
 
@@ -40,6 +55,8 @@ In this Open Risk White Paper, the second of series focusing on Federated Credit
 
 <br clear="all" />
 
+<hr>
+
 ### Open Risk White Paper 12: _Deep-Linking Financial and Energy Accounting_
 
 ([OpenRiskWP12_230922][23])
@@ -49,6 +66,8 @@ In this Open Risk White Paper, the second of series focusing on Federated Credit
 We develop a conceptual framework for integrated accounting that produces (where possible) non-financial disclosures subject to the same double-entry balance constraints as those used to produce conventional financial statements and automatically ensures any additional conservation laws are satisfied. We identify the key ingredients required for such a rigorous integrated accounting framework, in terms of concepts, postulates and design choices. Our focus and concrete use case is built around energy accounting, keeping track on an entity’s detailed energy footprint (primary inputs, transformations and waste generation) as an extension of its standard financial accounting and reporting. The central tool is the use of multi-dimensional double-entry bookkeeping which tracks quantitative information characterizing economic objects beyond their monetary values. This choice ensures the enforcement of both classic balance constraints and any applicable energy conservation laws. Further tools and techniques concern the aggregation and reporting of dual (monetary and physical) dimensions of an entity’s accounting state. The framework is documented using mathematical notation.
 
 <br clear="all" />
+
+<hr>
 
 ### Open Risk White Paper 11: _Sustainable Portfolio Management: Attribution and Allocation of Greenhouse Gas Emissions_
 
@@ -60,6 +79,8 @@ We develop an analytic framework that synthesizes current approaches to sustaina
 
 <br clear="all" />
 
+<hr>
+
 ### Open Risk White Paper 10: _Connecting the Dots: Concentration, diversity, inequality and sparsity in economic networks_
 
 ([OpenRiskWP10_300621][19])
@@ -69,6 +90,8 @@ We develop an analytic framework that synthesizes current approaches to sustaina
 In this second Open Risk White Paper on Connecting the Dots we examine measures of concentration, diversity, inequality and sparsity in the context of economic systems represented as network (graph) structures. We adopt a stylized description of economies as property graphs and illustrate how relevant concepts can represented in this language. We explore in some detail data types representing economic network data and their statistical nature which is critical in their use in concentration analysis. We proceed to recast various known indexes drawn from distinct disciplines in a unified computational context.
 
 <br clear="all" />
+
+<hr>
 
 ### Open Risk White Paper 9: _Federated Credit Systems, Part I: Unbundling The Credit Provision Business Model_
   
@@ -80,6 +103,8 @@ In this (the first of series of three) white paper, we introduce and explore the
 
 <br clear="all" />
 
+<hr>
+
 ### Open Risk White Paper 8: _Connecting the Dots: Economic Networks as Property Graphs_
   
 ([OpenRiskWP08_131219][1])
@@ -89,6 +114,8 @@ In this (the first of series of three) white paper, we introduce and explore the
 We develop a quantitative framework that approaches economic networks from the point of view of contractual relationships between agents (and the interdependencies those generate). The representation of agent properties, transactions and contracts is done in the context of a property graph. A typical use case for the proposed framework is the study of credit networks.
 
 <br clear="all" />
+
+<hr>
 
 ### Open Risk White Paper 7: _Risk Capital for Non-Performing Loans_ 
 
@@ -100,6 +127,8 @@ We develop a conceptual framework for risk capital calculation for portfolios of
 
 <br clear="all" />
 
+<hr>
+
 ### Open Risk White Paper 6: _Stress Testing Methodology for FX Lending_ 
 
 ([OpenRiskWP06_012116][5])
@@ -110,6 +139,8 @@ We develop a simple methodology for stress testing portfolios of credit instrume
 
 <br clear="all" />
 
+<hr>
+
 ### Open Risk White Paper 5: _Identification Framework for Business Model Risks_ 
 
 ([OpenRiskWP05_010916][7])
@@ -119,6 +150,8 @@ We develop a simple methodology for stress testing portfolios of credit instrume
 We develop an analytical framework for the systematic _identification_ of business model risks. The framework utilizes as a starting point a simplified business model schema known as the Business Model Canvas. We review each one of the elements of the schema in turn, identifying the main risk characteristics associated with each.
 
 <br clear="all" />
+
+<hr>
 
 ### Open Risk White Paper 4: _Open Risk Model Taxonomy_ 
 
@@ -132,6 +165,8 @@ We first review the motivation for risk taxonomies, the concepts and tools that 
 
 <br clear="all" />
 
+<hr>
+
 ### Open Risk White Paper 3: _Introducing the Open Risk API_ 
 
 ([OpenRiskWP03_053115][11])
@@ -143,6 +178,8 @@ We develop a proposal for an open source application programming interface (API)
 The proposal builds on two key modern technological frameworks, Semantic Data and RESTful API’s, which in turn are both examples of rapidly adopted and evolving Web technologies. We review the motivation for such an infrastructure, the concepts and tools that can enable such a design and various related initiatives. We describe in detail the current version of the API specification.
 
 For definiteness, we illustrate the concept with an open source implementation that takes a use case from the analysis of credit risk in loan portfolios. The implementation consists of demo model and data servers and clients implemented using Python and MongoDB.
+
+<hr>
 
 ### Open Risk White Paper 2: _Confidence Capital: The Principle_ 
 
@@ -156,11 +193,15 @@ The likelihood and severity of a future ratings downgrade (as opposed to a defau
 
 We derive explicit formulas for implementing a confidence capital framework in a two period setup that can lead to tractable implementations. We include a brief quantitative study that addresses a very simplified case that is solvable in terms of simple formulas. We explore the relation of confidence capital to economic capital for various choices of risk appetite and inter-temporal loss correlations
 
+<hr>
+
 ### Open Risk White Paper 1: _Revisiting Simple Concentration Indexes_ 
 
 ([OpenRiskWP01_032705][15])
 
 We review the definitions of widely used concentration metrics such as the concentration ratio, the HHI index and the Gini and clarify their meaning and relationships. This new analytic framework helps clarify the apparent arbitrariness of simple concentration indexes and brings to the fore the underlying unifying concept behind these metrics, thereby enabling their more informed use in portfolio and risk management applications. We also propose that the sensitivity of concentration indexes to growing concentration should be a defining criterion for adopting an index and explore the sensitivity of common indexes to changing portfolio concentrations. We show that this sensitivity can vary significantly between indexes for parametric families of portfolio distributions and hence selecting and using a simple concentration index should take this aspect carefully into consideration.
+
+<hr>
 
 ## Presentations
 
@@ -170,6 +211,8 @@ We review the definitions of widely used concentration metrics such as the conce
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2024/12/sut_graph.png" width="300"/>]
 
+<hr>
+
 ### IO Workshop 2024: EEIO in Sustainable Finance - Challenges and Opportunities
 
 [<img src="https://www.openriskmanagement.com/wp-content/uploads/2024/06/NGFS_Scenarios_II.png" width="300"/>][32]
@@ -178,6 +221,7 @@ We review the definitions of widely used concentration metrics such as the conce
 
 [Presentation][31] given at the 15th I-O Workshop, March 1st 2024, Osnabruck, Germany
 
+<hr>
 
 ### TopQuants 2015: Open Risk API
 
