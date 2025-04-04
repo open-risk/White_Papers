@@ -7,8 +7,20 @@ This repository is a **mirror** of the [Open Risk White Paper Collection](https:
 * We welcome external collaborators who are interested in the areas where Open Risk is active.
 * We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20) or, if you prefer, on our [reddit sub](https://www.reddit.com/r/open_risk/) or on [mastodon](https://mastodon.social/deck/@openrisk).
 
+### Open Risk White Paper 17: _Sustainable Public Procurement. Part I: Emissions Attribution_
 
-### Open Risk White Paper 16: _Open Risk White Paper 16: _Follow the Money: Random Walks on Supply and Use Graphs_
+<img src="https://www.openriskmanagement.com/wp-content/uploads/2025/03/Qupstream.png" width="350" />
+
+[OpenRiskWP17_040425](OpenRiskWP17_040425.pdf)
+
+Public Procurement represents a major opportunity to catalyze the transition of economies towards more sustainable patterns but faces important challenges. We review mechanisms that can help address key pain points through the use of open standards, open data and open source tools. In the first part we frame the overall task of Sustainable Public Procurement as an instance of portfolio management. We outline three distinct information processing pillars that are relevant in this context. We focus here on the task of measuring and attributing greenhouse gas emissions to an existing procurement portfolio.
+
+<br clear="all" />
+
+<hr>
+
+
+### Open Risk White Paper 16: _Follow the Money: Random Walks on Supply and Use Graphs_
 
 <img src="https://www.openriskmanagement.com/wp-content/uploads/2025/03/Qupstream.png" width="350" />
 
