@@ -7,9 +7,23 @@ This repository is a **mirror** of the [Open Risk White Paper Collection](https:
 * We welcome external collaborators who are interested in the areas where Open Risk is active.
 * We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20) or, if you prefer, on our [reddit sub](https://www.reddit.com/r/open_risk/) or on [mastodon](https://mastodon.social/deck/@openrisk).
 
+
+### Open Risk White Paper 18: _Sustainable Public Procurement. Part I: Making Use Of Environmentally Extended Input-Output Data_
+
+<img src="https://www.openriskmanagement.com/wp-content/uploads/2025/04/procurement_portfolio.png" width="350" />
+
+[OpenRiskWP18_290925](OpenRiskWP18_290925.pdf)
+
+Adopting Open Data and Open Source tools can be a catalyst in the sustainability transition and Green Public Procurement (GPP) is a particularly opportune domain to explore this potential. In the first paper in this series we outlined key information flows and tasks that are relevant in this context. Here we dive deeper into how one can leverage a particularly promising source of economic and environmental impact information: Environmentally Extended Input-Output (EEIO) databases. We will discuss some of the challenges that must be addressed to effectively use EEIO tools in GPP, especially in European context. The use cases in focus are: how to produce an overall inventory of direct and indirect emissions for different procurement categories, and how to differentiate between green and non-green products. Some practical problems that must be tackled are: the consistent linkage of procurement data sets to EEIO databases, and the disaggregation of EEIO sectors to more granular of green / non-green products. We discuss potential approaches and their pros and cons. We analyze the specific challenge of creating a CPV-NACE mapping that would link demand driven procurement product taxonomies with supply driven economic activity classifications. We outline a methodology for disaggregating EEIO business sectors to constituent product categories with differentiated environmental impact while preserving the accounting constraints satisfied by the aggregate databases.
+
+<br clear="all" />
+
+<hr>
+
+
 ### Open Risk White Paper 17: _Sustainable Public Procurement. Part I: Emissions Attribution_
 
-<img src="https://www.openriskmanagement.com/wp-content/uploads/2025/03/Qupstream.png" width="350" />
+<img src="https://www.openriskmanagement.com/wp-content/uploads/2025/04/procurement_portfolio.png" width="350" />
 
 [OpenRiskWP17_040425](OpenRiskWP17_040425.pdf)
 
