@@ -8,7 +8,7 @@ This repository is a **mirror** of the [Open Risk White Paper Collection](https:
 * We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20) or, if you prefer, on our [reddit sub](https://www.reddit.com/r/open_risk/) or on [mastodon](https://mastodon.social/deck/@openrisk).
 
 
-### Open Risk White Paper 18: _Sustainable Public Procurement. Part I: Making Use Of Environmentally Extended Input-Output Data_
+### Open Risk White Paper 18: _Sustainable Public Procurement. Part II: Making Use Of Environmentally Extended Input-Output Data_
 
 <img src="https://www.openriskmanagement.com/wp-content/uploads/2025/04/procurement_portfolio.png" width="350" />
 
@@ -19,7 +19,6 @@ Adopting Open Data and Open Source tools can be a catalyst in the sustainability
 <br clear="all" />
 
 <hr>
-
 
 ### Open Risk White Paper 17: _Sustainable Public Procurement. Part I: Emissions Attribution_
 
