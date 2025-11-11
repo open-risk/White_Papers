@@ -8,6 +8,18 @@ This repository is a **mirror** of the [Open Risk White Paper Collection](https:
 * We welcome discussion / comments or other suggestions at the [dedicated Open Risk Commons area](https://www.openriskcommons.org/c/white-papers/20) or, if you prefer, on our [reddit sub](https://www.reddit.com/r/open_risk/) or on [mastodon](https://mastodon.social/deck/@openrisk).
 
 
+### Open Risk White Paper 19: _Connecting the Dots: Accounting Graphs for Double and Quadruple-Entry Bookkeeping_
+
+<img src="https://www.openriskmanagement.com/wp-content/uploads/2025/11/qeb_accounting_graph.png" width="350" />
+
+[OpenRiskWP19_111125](OpenRiskWP19_111125.pdf)
+
+We develop the concept of an accounting graph as an intuitive and flexible tool that can faithfully represent widely used accounting concepts. More specifically, a weighted directed multigraph representation is applied to model standard double-entry bookkeeping (DEB) of individual accounting entities but extended to also provide a consistent accounting graph for larger economic networks that feature multiple transacting entities (so-called quadruple-entry accounting). We illustrate the concepts with stylized accounting examples. Such accounting graphs are promising both as educational tools and towards the application of computational tools on accounting data.
+
+<br clear="all" />
+
+<hr>
+
 ### Open Risk White Paper 18: _Sustainable Public Procurement. Part II: Making Use Of Environmentally Extended Input-Output Data_
 
 <img src="https://www.openriskmanagement.com/wp-content/uploads/2025/04/procurement_portfolio.png" width="350" />
